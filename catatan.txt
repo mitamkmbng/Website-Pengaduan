@@ -1,0 +1,10 @@
+Form pertanyaan sudah diubah ke pilihan
+-untuk merubah opsi jawaban salah bisa dilakukan di controller aduan public function generateCaptcha bagian "wrong"
+
+Form pengaduan sudah dibuat harus diisi dan ditambah input file bertipe mp3 dan mp4
+
+cek aduan sudah diberi tabel
+
+petugas dapat mengubah kategori pada menu aduan masuk sebelum diverifikasi akan diterima atau ditolak
+
+menu aduan baru dan aduan sudah dilihat bisa diklik menuju halaman untuk menampilkan data grafik ditambahkan pada bagian dashboard pimpinan
